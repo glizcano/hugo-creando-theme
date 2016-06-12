@@ -1,0 +1,18 @@
+name = "Creative"
+license = "Apache License 2.0"
+licenselink = "//github.com/glizcano/hugo-creand-theme/blob/master/LICENSE"
+description = "A one page HTML theme for creands."
+homepage = "//github.com/glizcano/hugo-creand-theme"
+tags = ["creand", "portfolio"]
+features = ["responsive", "portfolio", "substitutable strings"]
+min_version = 0.14
+
+[author]
+  name = "glizcano"
+  homepage = "//github.com/glizcano"
+
+# If porting an existing theme
+[original]
+  name = "David Miller"
+  homepage = "//www.ironsummitmedia.com/"
+  repo = "//github.com/IronSummitMedia/startbootstrap-creand"
